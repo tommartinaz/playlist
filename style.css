@@ -147,15 +147,19 @@ ADDITIONAL STYLING FOR PLAYLIST.HTML
 {
     position: relative;
 
-    width: 60%;
-    height: 20%;
+    width: 50%;
+    height: 28%;
     margin: 40px auto;
+    white-space: nowrap;
+    overflow-x: scroll;
+
 }
 .thumbnails
 {
-    float: left;
+    display: inline-block;
 
     margin: 0px 10px;
+
 }
 
 .text {
@@ -164,6 +168,7 @@ ADDITIONAL STYLING FOR PLAYLIST.HTML
   border: 1px solid black;
   margin: 0px auto;
   font-size: 22px;
+  overflow: auto;
 }
 
 .button-row {

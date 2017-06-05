@@ -1,17 +1,40 @@
-var albumArt = $.get("https://lit-fortress-6467.herokuapp.com/object");
+var albumArt = $.get("http://localhost:8000/object/music.json");
 albumArt.done(function(data) {
   var albumInfo = (data.results);
-  console.log(albumInfo);
+
+  //-----------------------------------------------------------
+  //  RANDOMIZE ALBUM ORDER
   for (var i = albumInfo.length - 1, j = 0, temp = null; i > 0; i--) {
     j = Math.floor(Math.random() * (i + 1));
     temp = albumInfo[i];
     albumInfo[i] = albumInfo[j];
     albumInfo[j] = temp;
   }
-  for (i = 0; i < albumInfo.length; i++) {
+  //------------------------------------------------------------
+
+  //------------------------------------------------------------
+  //SORTS ALBUMS BY ARTIST AND ALBUM TITLE
+  var sortedAlbums = albumInfo.map(a => Object.assign({}, a));
+  sortedAlbums = sortedAlbums.sort(function(a, b) {
+    if (a.artist < b.artist) {
+      return -1;
+    } else if (a.artist === b.artist) {
+      if (a.title < b.title) {
+        return -1;
+      } else {
+        return 1;
+      }
+    } else {
+      return 1;
+    }
+  })
+  //-------------------------------------------------------------
+
+
+  for (i = 0; i < sortedAlbums.length; i++) {
     $("#thumbnails").append(`
       <div class='thumbnails'>
-      <img src='images/${albumInfo[i].cover_art}'></div>
+      <img src='images/${sortedAlbums[i].cover_art}'></div>
     `);
   };
   $("#thumbnails .thumbnails").click(function() {

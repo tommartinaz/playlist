@@ -1,0 +1,248 @@
+{
+  "results": [{
+      "id": 1,
+      "title": "Moving Pictures",
+      "artist": "Rush",
+      "cover_art": "moving_pictures.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Joshua Tree",
+      "artist": "U2",
+      "cover_art": "the_joshua_tree.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Empire",
+      "artist": "Queensryche",
+      "cover_art": "empire.jpg"
+    },
+    {
+      "id": 4,
+      "title": "All That You Can't Leave Behind",
+      "artist": "U2",
+      "cover_art": "all_that_you_cant_leave_behind.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Left Overture",
+      "artist": "Kansas",
+      "cover_art": "leftoverture.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Signals",
+      "artist": "Rush",
+      "cover_art": "signals.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Colour and the Shape",
+      "artist": "Foo Fighters",
+      "cover_art": "color_and_the_shape.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Face Value",
+      "artist": "Phil Collins",
+      "cover_art": "face_value.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Genesis",
+      "artist": "Genesis",
+      "cover_art": "genesis.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Human Clay",
+      "artist": "Creed",
+      "cover_art": "human_clay.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Hysteria",
+      "artist": "Def Leppard",
+      "cover_art": "hysteria.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Invisible Touch",
+      "artist": "Genesis",
+      "cover_art": "invisible_touch.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Kilroy Was Here",
+      "artist": "Styx",
+      "cover_art": "kilroy_was_here.jpg"
+    },
+    {
+      "id": 14,
+      "title": "My Own Prison",
+      "artist": "Creed",
+      "cover_art": "my_own_prison.jpg"
+    },
+    {
+      "id": 15,
+      "title": "No Jacket Required",
+      "artist": "Phil Collins",
+      "cover_art": "no_jacket_required.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Pyromania",
+      "artist": "Def Leppard",
+      "cover_art": "pyromania.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Slippery When Wet",
+      "artist": "Bon Jovi",
+      "cover_art": "slippery_when_wet.jpg"
+    },
+    {
+      "id": 18,
+      "title": "The Better Life",
+      "artist": "3 Doors Down",
+      "cover_art": "the_better_life.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Ghost in the Machine",
+      "artist": "The Police",
+      "cover_art": "ghost_in_the_machine.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Red",
+      "artist": "Black Uhuru",
+      "cover_art": "red.jpg"
+    },
+    {
+      "id": 21,
+      "title": "The Division Bell",
+      "artist": "Pink Floyd",
+      "cover_art": "the_division_bell.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "cover_art": "thriller.jpg"
+    },
+    {
+      "id": 23,
+      "title": "21",
+      "artist": "Adele",
+      "cover_art": "21.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Vapor Trails",
+      "artist": "Rush",
+      "cover_art": "vapor_trails.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Snakes and Arrows",
+      "artist": "Rush",
+      "cover_art": "snakes_and_arrows.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Roll the Bones",
+      "artist": "Rush",
+      "cover_art": "roll_the_bones.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Hold Your Fire",
+      "artist": "Rush",
+      "cover_art": "hold_your_fire.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Caress of Steel",
+      "artist": "Rush",
+      "cover_art": "caress_of_steel.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Counterparts",
+      "artist": "Rush",
+      "cover_art": "counterparts.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Hemispheres",
+      "artist": "Rush",
+      "cover_art": "hemispheres.jpg"
+    },
+    {
+      "id": 31,
+      "title": "Power Windows",
+      "artist": "Rush",
+      "cover_art": "power_windows.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Clockwork Angels",
+      "artist": "Rush",
+      "cover_art": "clockwork_angels.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Fly by Night",
+      "artist": "Rush",
+      "cover_art": "fly_by_night.jpg"
+    },
+    {
+      "id": 34,
+      "title": "A Farewell to Kings",
+      "artist": "Rush",
+      "cover_art": "a_farewell_to_kings.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Test for Echo",
+      "artist": "Rush",
+      "cover_art": "test_for_echo.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Grace Under Pressure",
+      "artist": "Rush",
+      "cover_art": "grace_under_pressure.jpg"
+    },
+    {
+      "id": 37,
+      "title": "Permanent Waves",
+      "artist": "Rush",
+      "cover_art": "permanent_waves.jpg"
+    },
+    {
+      "id": 38,
+      "title": "2112",
+      "artist": "Rush",
+      "cover_art": "2112.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Secret Samadhi",
+      "artist": "Live",
+      "cover_art": "secret_samadhi.jpg"
+    }, {
+      "id": 40,
+      "title": "Throwing Copper",
+      "artist": "Live",
+      "cover_art": "throwing_copper.jpg"
+    },
+    {
+      "id": 41,
+      "title": "Sixteen Stone",
+      "artist": "Bush",
+      "cover_art": "sixteen_stone.jpg"
+    }
+  ]
+}
