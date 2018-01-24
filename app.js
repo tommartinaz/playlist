@@ -1,4 +1,4 @@
-var albumArt = $.get("http://localhost:8000/object/music.json");
+var albumArt = $.get("http://0.0.0.0:8000/music.json");
 albumArt.done(function(data) {
   var albumInfo = (data.results);
 
